@@ -57,4 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=karthicksanthosh1999
+  <a href="your-linkedin-URL">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthicksanthosh1999" alt="LinkedIn Badge"/>
+  </a>
+
