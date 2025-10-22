@@ -15,6 +15,10 @@
   </a>
 </div>
 
+<p align="center">
+<img align="center" src="api_giphy_header.gif" width="100%" alt="API Giphy logo"/>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=karthicksanthosh1999&style=flat-square&color=blue" alt="Profile views"/>
 </div>
@@ -45,9 +49,7 @@
   />
 </picture>
 
-<p align="center">
-<img align="center" src="api_giphy_header.gif" width="100%" alt="API Giphy logo"/>
-</p>
+
 
 ---
 
@@ -113,7 +115,7 @@ I love building full-scale **Next.js + TypeScript** applications with clean, reu
 ### 🚀 Projects You Should Check Out
 - 💰 [Budget Tracker](https://github.com/karthicksanthosh1999/budget-tracker) — Manage income, expenses, and budgets.
 - 🧠 [AI Chat App](https://github.com/karthicksanthosh1999/ai-chat-app) — Chat with AI using LangChain + Next.js.
-- 📊 [Expense Tracker](https://github.com/karthicksanthosh1999/expense-tracker) — Real-time expense management dashboard.
+- 📊 [Profile](https://github.com/karthicksanthosh1999/expense-tracker) — My persional portfolio.
 
 ---
 
